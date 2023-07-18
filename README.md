@@ -1,4 +1,4 @@
-# MixMaster App
+# Contentful CMS App
 
 Dummy landing page with Contentful cms.<br/>
 [Live Preview](https://contentful-project-cms.netlify.app/)
